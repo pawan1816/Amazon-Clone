@@ -17,7 +17,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("/front-end/images/amazon_logo.png");
+    background-image: url("/images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -127,7 +127,7 @@ span{
 
 /* herp-section */
 .hero-section{
-    background-image: url("/front-end/images/hero_image.jpg");
+    background-image: url("/images/hero_image.jpg");
     background-size: cover;
     height: 380px;
     display: flex;
@@ -218,7 +218,7 @@ ul a{
     align-items: center;
 }
 .footer-logo{
-    background-image: url("/front-end/images/amazon_logo.png");
+    background-image: url("/images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
